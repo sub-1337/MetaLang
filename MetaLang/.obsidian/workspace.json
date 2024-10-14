@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -146,9 +146,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4f5975df74aff90c",
+  "active": "155144f8ca51f3c4",
   "lastOpenFiles": [
-    "Без названия.md",
+    "Стандарт",
+    "Сумбурно",
+    "Readme.md",
     "Добро пожаловать.md",
     "создайте ссылку.md"
   ]
