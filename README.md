@@ -1,2 +1,3 @@
 # MetaLang
- Meta languge docs
+Meta language docs
+Use Obsidian to edit & view
