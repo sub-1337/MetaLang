@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaLang/Стандарт/0. База/1. О языке.md",
+                "file": "MetaLang/Стандарт/1. Переменные и типы/1. Иерархия базовых типов.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaLang/Стандарт/0. База/1. О языке.md",
+                "file": "MetaLang/Стандарт/1. Переменные и типы/1. Иерархия базовых типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaLang/Стандарт/0. База/1. О языке.md",
+                "file": "MetaLang/Стандарт/1. Переменные и типы/1. Иерархия базовых типов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaLang/Стандарт/0. База/1. О языке.md"
+                "file": "MetaLang/Стандарт/1. Переменные и типы/1. Иерархия базовых типов.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "e43abe2086a51f03",
   "lastOpenFiles": [
+    "MetaLang/Стандарт/0. База/1. О языке.md",
+    "MetaLang/Стандарт/0. База/2. Символы и ключевые слова.md",
     "MetaLang/Стандарт/7. Функции/2. Сигантура.md",
     "MetaLang/Стандарт/7. Функции/3. Стрелочная функция.md",
     "MetaLang/Стандарт/7. Функции/4. Лямбда.md",
