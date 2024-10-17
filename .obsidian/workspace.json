@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaLang/Стандарт/7. Функции/5. Стрелочная функция.md",
+                "file": "MetaLang/Стандарт/3. Область видимости/2. Статическая область.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaLang/Стандарт/7. Функции/5. Стрелочная функция.md",
+                "file": "MetaLang/Стандарт/3. Область видимости/2. Статическая область.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaLang/Стандарт/7. Функции/5. Стрелочная функция.md",
+                "file": "MetaLang/Стандарт/3. Область видимости/2. Статическая область.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaLang/Стандарт/7. Функции/5. Стрелочная функция.md"
+                "file": "MetaLang/Стандарт/3. Область видимости/2. Статическая область.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "b7a5817b693cfa64",
   "lastOpenFiles": [
+    "MetaLang/Стандарт/7. Функции/5. Стрелочная функция.md",
     "MetaLang/Стандарт/7. Функции/6. Хуки.md",
     "MetaLang/Сумбурно/Untitled.canvas",
     "MetaLang/TODO.md",
@@ -166,7 +167,6 @@
     "MetaLang/Стандарт/7. Функции/2. Типы функций.md",
     "MetaLang/Стандарт/7. Функции/1. Область видимости.md",
     "Untitled.md",
-    "MetaLang/Стандарт/7. Функции/5. Стрелочная функция.md",
     "MetaLang/Стандарт/7. Функции/3. Сигантура.md",
     "MetaLang/Стандарт/1. Переменные и типы/5. Const модификатор.md",
     "MetaLang/Стандарт/3. Область видимости/1. Время жизни объекта.md",
