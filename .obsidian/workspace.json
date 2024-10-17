@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d484e695c2359fd",
+        "id": "0e78e006e7718761",
         "type": "tabs",
         "children": [
           {
-            "id": "e43abe2086a51f03",
+            "id": "b7a5817b693cfa64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaLang/Readme.md",
+                "file": "MetaLang/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaLang/Readme.md",
+                "file": "MetaLang/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaLang/Readme.md",
+                "file": "MetaLang/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaLang/Readme.md"
+                "file": "MetaLang/TODO.md"
               }
             }
           }
@@ -146,12 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43abe2086a51f03",
+  "active": "b7a5817b693cfa64",
   "lastOpenFiles": [
+    "MetaLang/Стандарт/3. Область видимости/2. Статическая область.md",
+    "MetaLang/Стандарт/8.  Классы/2. Наследование.md",
+    "MetaLang/Стандарт/8.  Классы/1. Классы и структуры.md",
+    "MetaLang/Сумбурно/Untitled.canvas",
+    "MetaLang/Стандарт/7. Функции/3. Сигантура и ссылки.md",
+    "MetaLang/Readme.md",
     "MetaLang/Сумбурно/СРАЛЬНИК.md",
     "MetaLang/Сумбурно/расширение имён.md",
     "MetaLang/Сумбурно/макросы.md",
-    "MetaLang/Стандарт/7. Функции/3. Сигантура и ссылки.md",
     "MetaLang/Стандарт/13. Компилятор и сборка/1..md",
     "MetaLang/Стандарт/13. Компилятор и сборка",
     "MetaLang/Стандарт/1. Переменные и типы/6.  Кортеж.md",
@@ -171,10 +176,6 @@
     "MetaLang/Стандарт/0. База/3. Базовый синтаксис.md",
     "MetaLang/Стандарт/1. Переменные и типы/1. Иерархия базовых типов.md",
     "MetaLang/Стандарт/0. База/1. О языке.md",
-    "MetaLang/Стандарт/0. База/2. Символы и ключевые слова.md",
-    "MetaLang/Стандарт/9. Перегрузка операторов/1. Кустом константы.md",
-    "MetaLang/Стандарт/4. Циклы и ветвления/3. Простые циклы.md",
-    "MetaLang/Стандарт/2. Операторы/1..md",
     "Pasted image 20241015101034.png",
     "MetaLang/Стандарт/6. Ссылочный тип, указатели",
     "MetaLang/Стандарт/3. Область видимости",
