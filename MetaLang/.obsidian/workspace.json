@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
+                "file": "Сумбурно/СРАЛЬНИК.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "СРАЛЬНИК"
+            }
+          },
+          {
+            "id": "5bdf60dd4ac1e55b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -28,10 +42,13 @@
                 "file": "Сумбурно/СРАЛЬНИК.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "СРАЛЬНИК"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -66,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -74,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -97,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
+                "file": "Сумбурно/СРАЛЬНИК.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для СРАЛЬНИК"
             }
           },
           {
@@ -114,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
+                "file": "Сумбурно/СРАЛЬНИК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из СРАЛЬНИК"
             }
           },
           {
@@ -128,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -137,8 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стандарт/1. Переменные и типы/4. Указатели и ссылки.md"
-              }
+                "file": "Сумбурно/СРАЛЬНИК.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура СРАЛЬНИК"
             }
           }
         ]
@@ -158,10 +189,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4f5975df74aff90c",
+  "active": "5bdf60dd4ac1e55b",
   "lastOpenFiles": [
-    "Стандарт/8.  Классы/1. Классы и структуры.md",
+    "mweb/public/tags/index.xml",
+    "mweb/public/tags",
+    "mweb/public/index.xml",
+    "mweb/public/categories/index.xml",
+    "mweb/public/categories",
+    "mweb/public/sitemap.xml",
+    "mweb/public",
+    "mweb/mweb/archetypes/default.md",
+    "mweb/mweb/themes",
+    "mweb/mweb/static",
+    "mweb/mweb/layouts",
+    "mweb/mweb/i18n",
+    "mweb/archetypes/default.md",
     "Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
+    "Стандарт/8.  Классы/1. Классы и структуры.md",
     "Стандарт/1. Переменные и типы/3. Сужение типов.md",
     "Стандарт/1. Переменные и типы/6.  Кортеж.md",
     "Стандарт/1. Переменные и типы/5. Const модификатор.md",
@@ -171,7 +215,6 @@
     "Стандарт/7. Функции/4. Лямбда.md",
     "Стандарт/13. Компилятор и сборка/1..md",
     "Стандарт/7. Функции/3. Сигантура и ссылки.md",
-    "Стандарт/13. Компилятор и сборка",
     "Стандарт/7. Функции/6. Ссылки на функции.md",
     "Стандарт/7. Функции/1. Область видимости.md",
     "Стандарт/7. Функции/2. Типы функций.md",
@@ -184,18 +227,6 @@
     "Стандарт/12. Стандартная библиотека/1..md",
     "Стандарт/7. Функции/3. Стрелочная функция.md",
     "Стандарт/7. Функции/2. Сигантура.md",
-    "Стандарт/11. Исключения и ошибки/1..md",
-    "Стандарт/10. Шаблоны/1..md",
-    "Стандарт/6. Ссылочный тип, указатели/1..md",
-    "Без названия.canvas",
-    "Стандарт/0. База",
-    "Стандарт/12. Стандартная библиотека",
-    "Стандарт/11. Исключения и ошибки",
-    "Стандарт/10. Шаблоны",
-    "Стандарт/9. Перегрузка операторов",
-    "Стандарт/8.  Классы",
-    "Стандарт/7. Функции",
-    "Стандарт/6. Ссылочный тип, указатели",
-    "Стандарт/5. Массивы, строки"
+    "Без названия.canvas"
   ]
 }
