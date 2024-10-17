@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сумбурно/СРАЛЬНИК.md",
+                "file": "Стандарт/7. Функции/1. Область видимости.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "СРАЛЬНИК"
-            }
-          },
-          {
-            "id": "5bdf60dd4ac1e55b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "1. Область видимости"
             }
           },
           {
@@ -47,8 +35,7 @@
               "title": "СРАЛЬНИК"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сумбурно/СРАЛЬНИК.md",
+                "file": "Стандарт/7. Функции/1. Область видимости.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для СРАЛЬНИК"
+              "title": "Обратные ссылки для 1. Область видимости"
             }
           },
           {
@@ -139,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сумбурно/СРАЛЬНИК.md",
+                "file": "Стандарт/7. Функции/1. Область видимости.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из СРАЛЬНИК"
+              "title": "Исходящие ссылки из 1. Область видимости"
             }
           },
           {
@@ -166,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сумбурно/СРАЛЬНИК.md"
+                "file": "Стандарт/7. Функции/1. Область видимости.md"
               },
               "icon": "lucide-list",
-              "title": "Структура СРАЛЬНИК"
+              "title": "Структура 1. Область видимости"
             }
           }
         ]
@@ -189,8 +176,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5bdf60dd4ac1e55b",
+  "active": "4f5975df74aff90c",
   "lastOpenFiles": [
+    "Стандарт/3. Область видимости/1. Время жизни объекта.md",
+    "Сумбурно/СРАЛЬНИК.md",
     "mweb/public/tags/index.xml",
     "mweb/public/tags",
     "mweb/public/index.xml",
@@ -202,7 +191,6 @@
     "mweb/mweb/themes",
     "mweb/mweb/static",
     "mweb/mweb/layouts",
-    "mweb/mweb/i18n",
     "mweb/archetypes/default.md",
     "Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
     "Стандарт/8.  Классы/1. Классы и структуры.md",
@@ -218,8 +206,6 @@
     "Стандарт/7. Функции/6. Ссылки на функции.md",
     "Стандарт/7. Функции/1. Область видимости.md",
     "Стандарт/7. Функции/2. Типы функций.md",
-    "Сумбурно/СРАЛЬНИК.md",
-    "Стандарт/3. Область видимости/1. Время жизни объекта.md",
     "Стандарт/0. База/3. Базовый синтаксис.md",
     "Стандарт/0. База/2. Символы и ключевые слова.md",
     "Стандарт/8.  Классы/3. Виртуальные функции.md",
