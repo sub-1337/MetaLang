@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaLang/Сумбурно/СРАЛЬНИК.md",
+                "file": "MetaLang/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaLang/Сумбурно/СРАЛЬНИК.md",
+                "file": "MetaLang/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaLang/Сумбурно/СРАЛЬНИК.md",
+                "file": "MetaLang/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaLang/Сумбурно/СРАЛЬНИК.md"
+                "file": "MetaLang/Readme.md"
               }
             }
           }
@@ -148,6 +148,14 @@
   },
   "active": "e43abe2086a51f03",
   "lastOpenFiles": [
+    "MetaLang/Сумбурно/СРАЛЬНИК.md",
+    "MetaLang/Сумбурно/расширение имён.md",
+    "MetaLang/Сумбурно/макросы.md",
+    "MetaLang/Стандарт/7. Функции/3. Сигантура и ссылки.md",
+    "MetaLang/Стандарт/13. Компилятор и сборка/1..md",
+    "MetaLang/Стандарт/13. Компилятор и сборка",
+    "MetaLang/Стандарт/1. Переменные и типы/6.  Кортеж.md",
+    "MetaLang/Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
     "MetaLang/Стандарт/7. Функции/2. Типы функций.md",
     "MetaLang/Стандарт/7. Функции/1. Область видимости.md",
     "MetaLang/Стандарт/7. Функции/Untitled.md",
@@ -159,7 +167,6 @@
     "MetaLang/Стандарт/1. Переменные и типы/3. Сужение типов.md",
     "MetaLang/Стандарт/1. Переменные и типы/4. Указатели.md",
     "MetaLang/Стандарт/7. Функции/1.md",
-    "MetaLang/Сумбурно/СРАЛЬНИК.md",
     "MetaLang/Стандарт/7. Функции/4. Лямбда.md",
     "MetaLang/Стандарт/0. База/3. Базовый синтаксис.md",
     "MetaLang/Стандарт/1. Переменные и типы/1. Иерархия базовых типов.md",
@@ -169,15 +176,11 @@
     "MetaLang/Стандарт/4. Циклы и ветвления/3. Простые циклы.md",
     "MetaLang/Стандарт/2. Операторы/1..md",
     "Pasted image 20241015101034.png",
-    "MetaLang/Стандарт/6. Ссылочный тип, указатели/1..md",
     "MetaLang/Стандарт/6. Ссылочный тип, указатели",
     "MetaLang/Стандарт/3. Область видимости",
     "MetaLang/Стандарт/2. Операторы",
-    "MetaLang/Стандарт/12. Стандартная библиотека/1..md",
     "MetaLang/Стандарт/12. Стандартная библиотека",
-    "MetaLang/Стандарт/11. Исключения и ошибки/1..md",
     "MetaLang/Стандарт/11. Исключения и ошибки",
-    "MetaLang/Стандарт/10. Шаблоны/1..md",
     "MetaLang/Стандарт/10. Шаблоны"
   ]
 }
