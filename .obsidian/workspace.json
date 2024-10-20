@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
+                "file": "MetaLang/Стандарт/3. Область видимости/3. Using.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
+                "file": "MetaLang/Стандарт/3. Область видимости/3. Using.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
+                "file": "MetaLang/Стандарт/3. Область видимости/3. Using.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md"
+                "file": "MetaLang/Стандарт/3. Область видимости/3. Using.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "b7a5817b693cfa64",
   "lastOpenFiles": [
+    "MetaLang/Стандарт/3. Область видимости/2. Статическая область.md",
+    "MetaLang/Стандарт/3. Область видимости/3. Using.md",
+    "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
     "MetaLang/Стандарт/13. Компилятор и сборка/1. Препроцессинг.md",
     "MetaLang/Сумбурно/СРАЛЬНИК.md",
     "MetaLang/Стандарт/13. Компилятор и сборка/2. Линковка с c++.md",
@@ -159,7 +162,6 @@
     "MetaLang/Стандарт/7. Функции/6. Хуки.md",
     "MetaLang/Стандарт/7. Функции/3. Сигантура и ссылки.md",
     "MetaLang/Стандарт/7. Функции/2. Типы функций.md",
-    "MetaLang/Стандарт/3. Область видимости/2. Статическая область.md",
     "MetaLang/Стандарт/7. Функции/5. Стрелочная функция.md",
     "MetaLang/Сумбурно/Untitled.canvas",
     "MetaLang/TODO.md",
@@ -174,8 +176,6 @@
     "MetaLang/Стандарт/7. Функции/3. Сигантура.md",
     "MetaLang/Стандарт/1. Переменные и типы/5. Const модификатор.md",
     "MetaLang/Стандарт/1. Переменные и типы/3. Сужение типов.md",
-    "MetaLang/Стандарт/1. Переменные и типы/4. Указатели.md",
-    "MetaLang/Стандарт/7. Функции/1.md",
     "Pasted image 20241015101034.png",
     "MetaLang/Стандарт/6. Ссылочный тип, указатели",
     "MetaLang/Стандарт/3. Область видимости",
