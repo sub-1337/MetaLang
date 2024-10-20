@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
+                "file": "MetaLang/Стандарт/2. Операторы/3. Включение библиотек.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
+                "file": "MetaLang/Стандарт/2. Операторы/3. Включение библиотек.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
+                "file": "MetaLang/Стандарт/2. Операторы/3. Включение библиотек.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md"
+                "file": "MetaLang/Стандарт/2. Операторы/3. Включение библиотек.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b7a5817b693cfa64",
   "lastOpenFiles": [
+    "MetaLang/Стандарт/12. Стандартная библиотека/1..md",
     "MetaLang/Стандарт/2. Операторы/3. Включение библиотек.md",
-    "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
     "MetaLang/Стандарт/2. Операторы/2. Хэштег операторы.md",
     "MetaLang/Стандарт/2. Операторы/1. Базовые операторы.md",
     "MetaLang/Стандарт/3. Область видимости/4. Модификации области вид..md",
