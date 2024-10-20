@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaLang/Стандарт/13. Компилятор и сборка/1. Препроцессинг.md",
+                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaLang/Стандарт/13. Компилятор и сборка/1. Препроцессинг.md",
+                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaLang/Стандарт/13. Компилятор и сборка/1. Препроцессинг.md",
+                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaLang/Стандарт/13. Компилятор и сборка/1. Препроцессинг.md"
+                "file": "MetaLang/Стандарт/12. Стандартная библиотека/1. Импорт из c++.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "b7a5817b693cfa64",
   "lastOpenFiles": [
+    "MetaLang/Стандарт/13. Компилятор и сборка/1. Препроцессинг.md",
     "MetaLang/Сумбурно/СРАЛЬНИК.md",
     "MetaLang/Стандарт/13. Компилятор и сборка/2. Линковка с c++.md",
-    "MetaLang/Стандарт/13. Компилятор и сборка/1. Препроцессинг.md",
     "MetaLang/Стандарт/8.  Классы/3. Виртуальные функции.md",
     "MetaLang/Стандарт/8.  Классы/2. Наследование.md",
     "MetaLang/Стандарт/8.  Классы/1. Классы и структуры.md",
