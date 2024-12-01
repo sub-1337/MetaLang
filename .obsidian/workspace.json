@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaLang/Стандарт/7. Функции/7. Спецификатор доступа.md",
+                "file": "MetaLang/Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "4. Указатели и ссылки"
+            }
+          },
+          {
+            "id": "93e0310356d1657c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaLang/Стандарт/7. Функции/7. Спецификатор доступа.md",
+                "file": "MetaLang/Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. Указатели и ссылки"
             }
           },
           {
@@ -102,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaLang/Стандарт/7. Функции/7. Спецификатор доступа.md",
+                "file": "MetaLang/Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. Указатели и ссылки"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaLang/Стандарт/7. Функции/7. Спецификатор доступа.md"
-              }
+                "file": "MetaLang/Стандарт/1. Переменные и типы/4. Указатели и ссылки.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Указатели и ссылки"
             }
           }
         ]
@@ -146,14 +175,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e1c74de5e967ea4",
+  "active": "93e0310356d1657c",
   "lastOpenFiles": [
+    "MetaLang/Стандарт/9. Перегрузка операторов/1. Кустом константы.md",
+    "MetaLang/Стандарт/5. Массивы, строки/1. Массивы.md",
+    "MetaLang/Стандарт/7. Функции/7. Спецификатор доступа.md",
     "MetaLang/Стандарт/4. Циклы и ветвления/6. Хэштег switch.md",
     "MetaLang/Стандарт/7. Функции/3. Сигантура и ссылки.md",
-    "MetaLang/Стандарт/7. Функции/7. Спецификатор доступа.md",
     "MetaLang/Сумбурно/СРАЛЬНИК.md",
     "MetaLang/Стандарт/2. Операторы/1. Базовые операторы.md",
-    "MetaLang/Стандарт/5. Массивы, строки/1. Массивы.md",
     "MetaLang/Стандарт/5. Массивы, строки/2.  Кортеж.md",
     "MetaLang/Стандарт/1. Переменные и типы/5. Const модификатор.md",
     "MetaLang/Стандарт/1. Переменные и типы/2. Переменные.md",
@@ -170,7 +200,6 @@
     "MetaLang/Стандарт/2. Операторы/3. Включение библиотек.md",
     "MetaLang/Стандарт/12. Стандартная библиотека/1..md",
     "MetaLang/Стандарт/1. Переменные и типы/3. Сужение типов.md",
-    "MetaLang/Стандарт/9. Перегрузка операторов/1. Кустом константы.md",
     "1. Кустом константы.md",
     "MetaLang/Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
     "MetaLang/Стандарт/3. Область видимости/3. Using и импорт.md",
