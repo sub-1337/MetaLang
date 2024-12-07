@@ -49,12 +49,14 @@
             "id": "8f0a773b63a5be36",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Сумбурно/СРАЛЬНИК.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "СРАЛЬНИК"
             }
           }
         ],
