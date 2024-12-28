@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e1c74de5e967ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MetaLang/Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Указатели и ссылки"
-            }
-          },
-          {
-            "id": "93e0310356d1657c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
             "id": "9aab2d9ee336eb2b",
             "type": "leaf",
             "state": {
@@ -46,9 +20,22 @@
               "icon": "lucide-file",
               "title": "6. Указатели и ссылки"
             }
+          },
+          {
+            "id": "9521f1c2ee16d88a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MetaLang/Стандарт/7. Функции/3. Сигантура и ссылки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Сигантура и ссылки"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,12 +178,13 @@
   },
   "active": "9aab2d9ee336eb2b",
   "lastOpenFiles": [
-    "MetaLang/Стандарт/1. Переменные и типы/4. Виды присвоений.md",
+    "MetaLang/Стандарт/7. Функции/3. Сигантура и ссылки.md",
     "MetaLang/Стандарт/1. Переменные и типы/6. Указатели и ссылки.md",
-    "MetaLang/Стандарт/1. Переменные и типы/7. Указание секции.md",
+    "MetaLang/Стандарт/1. Переменные и типы/8. Указание секции.md",
+    "MetaLang/Стандарт/1. Переменные и типы/7. Умные указатели.md",
+    "MetaLang/Стандарт/1. Переменные и типы/4. Виды присвоений.md",
     "MetaLang/Стандарт/7. Функции/4. Лямбда и захват переменных.md",
     "MetaLang/Стандарт/7. Функции/5. Стрелочная функция.md",
-    "MetaLang/Стандарт/7. Функции/3. Сигантура и ссылки.md",
     "MetaLang/Стандарт/7. Функции/2. Типы функций.md",
     "MetaLang/Стандарт/1. Переменные и типы/2. Переменные.md",
     "MetaLang/Стандарт/1. Переменные и типы/5. Const модификатор.md",
@@ -216,7 +204,6 @@
     "MetaLang/Стандарт/7. Функции/10. Ассемблерные вставки.md",
     "MetaLang/Стандарт/13. Компилятор и сборка/2. Препроцессинг.md",
     "MetaLang/Стандарт/13. Компилятор и сборка/1. Сборка.md",
-    "MetaLang/Стандарт/9. Перегрузка операторов/1. Кустом константы.md",
     "MetaLang/Сумбурно/Untitled.canvas",
     "MetaLang/Стандарт/13. Компилятор и сборка",
     "Pasted image 20241015101034.png",
