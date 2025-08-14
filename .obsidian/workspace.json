@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaLang/Сумбурно/брейн шторм.md",
+                "file": "MetaLang/Стандарт/1. Переменные и типы/2. Переменные.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "брейн шторм"
+              "title": "2. Переменные"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb2fe6a481918ff6",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaLang/Стандарт/1. Переменные и типы/4. Указатели и ссылки.md",
+                "file": "MetaLang/Стандарт/1. Переменные и типы/2. Переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Указатели и ссылки"
+              "title": "Backlinks for 2. Переменные"
             }
           },
           {
@@ -194,6 +195,8 @@
   },
   "active": "7bf66808c931fc8c",
   "lastOpenFiles": [
+    "MetaLang/Стандарт/12. Стандартная библиотека/1. Подключение файлов.md",
+    "MetaLang/Сумбурно/брейн шторм.md",
     "MetaLang/TODO.md",
     "MetaLang/Readme.md",
     "MetaLang/Стандарт/2. Операторы/6. Сравнение.md",
@@ -202,7 +205,6 @@
     "MetaLang/Стандарт/1. Переменные и типы/Untitled.md",
     "MetaLang/Стандарт/1. Переменные и типы/8.  Переопределение базовых типов.md",
     "MetaLang/Стандарт/7. Функции/1. Область видимости.md",
-    "MetaLang/Сумбурно/брейн шторм.md",
     "MetaLang/Сумбурно/расширение имён.md",
     "MetaLang/Сумбурно/макросы.md",
     "MetaLang/Сумбурно/Untitled.canvas",
@@ -220,7 +222,6 @@
     "MetaLang/Стандарт/1. Переменные и типы/3. Сужение типов.md",
     "MetaLang/Стандарт/1. Переменные и типы/9. Указание секции.md",
     "MetaLang/Стандарт/7. Функции/10. Ассемблерные вставки.md",
-    "MetaLang/Стандарт/12. Стандартная библиотека/2. Алгоритмы.md",
     "MetaLang/Стандарт/13. Компилятор и сборка",
     "Pasted image 20241015101034.png",
     "MetaLang/Стандарт/6. Ссылочный тип, указатели",
